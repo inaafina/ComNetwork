@@ -3,7 +3,7 @@ Final Project for Computer Network Course
 
 In this file, we made a simple web server Program based on TCP Socket programming. 
 
-We have 6 goal for this web server:
+We have 6 goals for this web server:
 1. Implementation of a TCP socket and linking it to a specific address and port
 2. Web server programs can receive and parse the sent HTTP requests by the browser
 3. Web server can search for and retrieve files (from the file system) requested by clients
