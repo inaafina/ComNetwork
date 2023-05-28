@@ -1,5 +1,5 @@
 # ComNetwork
-Final Project for Computer Network Course
+Group Final Project for Computer Network Course
 
 In this file, we made a simple web server Program based on TCP Socket programming. 
 
