@@ -14,4 +14,4 @@ We have 6 goal for this web server:
 How to run this web server?
 1. Run Server on CMD
 2. Run Client on separate CMD
-3. Go to browser and run localhost:8080/test.html
+3. CLient will ask for the file that wanted to be shown on the web server
